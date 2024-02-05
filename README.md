@@ -46,9 +46,6 @@ Daftar Website rute dialihkan ke WARP
 # Link Instalasi
 *Only Ubuntu Min Ver 20.04
 ```
-bash -c "$(wget -qO- s.id/1YIob)"
+bash -c "$(wget -qO- https://raw.githubusercontent.com/suharaaja484/awalan/main/xray)"
 ```
-# Donasi
-Donasi untuk perpanjang Layanan WARP+ 😊😊
 
-https://saweria.co/dugonglewat
